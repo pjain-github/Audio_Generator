@@ -1,0 +1,68 @@
+# Ignore .env files
+.env
+.env.*
+
+# Ignore Python environment files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.whl
+*.egg
+*.egg-info/
+dist/
+build/
+*.venv/
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+bin/
+lib/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Ignore compiled code
+*.o
+*.obj
+*.dll
+*.class
+*.exe
+
+# Ignore coverage reports
+.coverage
+*.cover
+*.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# Ignore virtual environment
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

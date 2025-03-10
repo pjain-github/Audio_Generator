@@ -1,0 +1,7 @@
+gTTS
+pysrt
+edge-tts
+pydub 
+openai-whisper
+streamlit
+asyncio
