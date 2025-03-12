@@ -5,3 +5,4 @@ pydub
 openai-whisper
 streamlit
 asyncio
+opencv-python
